@@ -8,7 +8,9 @@ int actual_sqrt_recursion(int n, int i);
  *
  * Return: the resulting square root
  */
-/*main - check the code
+
+/**
+ *main - check the code
  *
  * Return: Always 0.
  */
