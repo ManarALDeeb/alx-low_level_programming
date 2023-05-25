@@ -6,9 +6,7 @@
  * @name: name to print
  * @f: pointer to the printing function
  */
-void print_name(char *nome, void (*f)(char *))
+void print_name(char *name, void (*f)(char *))
 {
-	if (!nome || !f)
-		return;
-	f(nome);
+    f(name);
 }
