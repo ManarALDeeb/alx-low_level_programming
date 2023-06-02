@@ -1,5 +1,4 @@
-#include <stdlib.h>
-#include "lists.h"
+
         global    main
           extern    printf
 main:
